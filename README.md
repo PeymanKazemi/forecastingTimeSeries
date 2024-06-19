@@ -46,7 +46,7 @@ Suitable for business and financial forecasting.
 Can handle shorter time series due to its ability to incorporate domain knowledge.
 Performs well with long-term data due to its flexibility in modeling.
 
-##5. LSTM (Long Short-Term Memory)
+## 5. LSTM (Long Short-Term Memory)
 #### Accuracy: 
 High for capturing complex patterns and non-linear relationships.
 #### Benefits:
