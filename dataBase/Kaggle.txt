@@ -1,0 +1,32 @@
+
+https://www.kaggle.com/datasets/samuelcortinhas/time-series-practice-dataset/data
+
+Time Series Practice Dataset
+Synthetic time series data
+
+Time Series Practice Dataset
+
+New Notebook
+
+Download (932 kB)
+
+
+
+Data Card
+
+Code (10)
+
+Discussion (0)
+
+Suggestions (0)
+About Dataset
+Context
+This dataset is intended for anybody who wants to practice and improve their time series skills.
+
+Content
+This dataset contains simulated time series data covering 10 years (2010-2019). The features include date, store id, product id and number sold. The train.csv covers the years 2010-2018 and the test.csv covers 2019 only. The are 7 unique stores and 10 unique products. The are no null values. The objective is to predict the number sold feature in the test.csv.
+
+I created this time series data using multiple features including various long term trends, year-long seasonality patterns, weekday/weekend effects and noise. Moreover, the products and the stores are supposed to be weakly correlated.
+
+Assessment
+To compare with other peoples solutions, I recommend using the MAPE (Mean Absolute Percentage Error) metric.
